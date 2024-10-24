@@ -8,7 +8,7 @@ College of Artificial Intelligence, Nankai University, Tianjing, China + Laborat
 
 <img src="figures/HEP.png" width="600px">
  
-paper: Our paper is currently under review and is expected to be published soon. Some part of our codes is temporarily locked, to protect our result until paper be published. You can contact us by emailing 734162621@qq.com temporarily.
+paper: Our paper is currently under review and is expected to be published soon. You can contact us by emailing 2120230524@mail.nankai.edu.cn or 734162621@qq.com.
 
 
 ## Quick Start
